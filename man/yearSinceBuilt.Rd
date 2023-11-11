@@ -2,7 +2,7 @@
 % Please edit documentation in R/yearSinceBuilt.R
 \name{yearSinceBuilt}
 \alias{yearSinceBuilt}
-\title{Year Since Built}
+\title{yearSinceBuilt}
 \usage{
 yearSinceBuilt(this_year)
 }

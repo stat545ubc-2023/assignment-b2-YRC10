@@ -1,4 +1,4 @@
-#' Year Since Built
+#' yearSinceBuilt
 #'
 #' Add new variable year_since_built to apt_buildings dataset. It can also be edited when the new year comes.
 #' For example, just run the function again when the year 2024 arrives and replace the input with 2024.

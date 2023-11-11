@@ -20,7 +20,7 @@ This function can add new variable year_since_built to apt_buildings dataset. It
 ## Installation
 
 ```{r}
-devtools::install_github("stat545ubc-2023/assignment-b2-YRC10/yearSinceBuilt/")
+devtools::install_github("stat545ubc-2023/assignment-b2-YRC10/")
 ```
 
 ## Example

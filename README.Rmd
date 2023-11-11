@@ -20,7 +20,8 @@ This function can add new variable year_since_built to apt_buildings dataset. It
 ## Installation
 
 ```{r}
-devtools::install_github("stat545ubc-2023/assignment-b2-YRC10/")
+library("devtools")
+devtools::install_github("stat545ubc-2023/assignment-b2-YRC10")
 ```
 
 ## Example
@@ -32,7 +33,7 @@ Example1 <- add_year_since_built(2023)
 Example1
 ```
 
-```{r}
+```         
 ## # A tibble: 3,455 × 2
 ##    year_built year_since_built
 ##         <dbl>            <dbl>
@@ -49,3 +50,8 @@ Example1
 ## # ℹ 3,445 more rows
 ```
 
+## Reminder
+If you want to update any files, always pull from the master branch first!
+```
+git pull origin main
+```
